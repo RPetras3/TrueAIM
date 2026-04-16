@@ -1,0 +1,23 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "deer",
+      "keypoints": [
+        "vital"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "elk",
+      "keypoints": [
+        "vital"
+      ]
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
